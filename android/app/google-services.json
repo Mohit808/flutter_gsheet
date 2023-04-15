@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "937888834443",
+    "project_id": "scaleupprojecttracker",
+    "storage_bucket": "scaleupprojecttracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937888834443:android:79cebefed59c8cc5dc058e",
+        "android_client_info": {
+          "package_name": "com.scaleup.cloudtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937888834443-iikj8j3a1ml7p4i2g6ru1mnd4dqsvpdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scaleup.cloudtracker",
+            "certificate_hash": "5ac7f9c842365d7f9000b7a3968b2f9e9d929799"
+          }
+        },
+        {
+          "client_id": "937888834443-5qqq4teqiom84rvalsn0clhhncjm5iv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4W4Yauvob4ket6qNBY8YEVyhNRhlTWSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937888834443-5qqq4teqiom84rvalsn0clhhncjm5iv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
